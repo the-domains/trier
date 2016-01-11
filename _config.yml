@@ -1,0 +1,28 @@
+name: Trier
+favicon: null
+layout_spectrum: 0.7965139134321362
+typography_spectrum: 0.7532246669288725
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.8039163663052022
+  lightness: 0.04468040890060365
+  saturation: 0.6203934147488326
+  rhythmicContrast: 0.4326566073577851
+purpose: []
